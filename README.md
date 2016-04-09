@@ -1,9 +1,9 @@
 # SystemSolver
-##Programma per CLI che permette di risolvere sistemi lineari con metodi matematici
+**Programma per CLI che permette di risolvere sistemi lineari con metodi matematici**
 ![logo] (https://github.com/NicolaSabino/SystemSolver/blob/master/screen/stampa.png)
 
 
-**Progetto per l'esame di Algoritmi e strutture dati del corso di studi di ingegneria informatica**
+Progetto per l'esame di Algoritmi e strutture dati del corso di studi di ingegneria informatica
   
   il software, una volta compilato,necessita di una cartella denominata workspace con all'interno una struttura analga a quella riproposta nei sorgenti
   
