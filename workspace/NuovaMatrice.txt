@@ -1,0 +1,8 @@
+#	ELIMINA QUESTI COMMENTI PRIMA DI SALVARE IL FILE!!!!!	    
+#
+#	INSERISCI UNA MATRICE NEL SEGUENTE MODO
+# N° INCOGNITE--->2
+# MATRICE-------->1	1	3
+#		  4	4	4
+#    salva questo file con "NomeDelFile.txt"
+#####################################################################
