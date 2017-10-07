@@ -1,6 +1,6 @@
 # SystemSolver
 **Programma per CLI che permette di risolvere sistemi lineari con metodi matematici**
-![logo] (https://github.com/NicolaSabino/SystemSolver/blob/master/screen/stampa.png)
+![logo](https://github.com/NicolaSabino/SystemSolver/blob/master/screen/stampa.png)
 
 
 Progetto per l'esame di Algoritmi e strutture dati del corso di studi di ingegneria informatica
