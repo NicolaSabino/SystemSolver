@@ -7,7 +7,7 @@ Progetto per l'esame di Algoritmi e strutture dati del corso di studi di ingegne
   
   il software, una volta compilato,necessita di una cartella denominata workspace con all'interno una struttura analga a quella riproposta nei sorgenti
   
-  **La modifica mediante editor di testo non è supportata solo su sistemi Linux e OSX**
+  **La modifica mediante editor di testo è supportata solo su sistemi Linux e OSX**
 
 
 per ulteriori informazioni sul progetto
